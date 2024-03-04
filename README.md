@@ -2,6 +2,8 @@
 
 - create react app using vite
 - configure tailwind
+- Header
+- Login form
 
 
 
