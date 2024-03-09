@@ -3,7 +3,18 @@
 - create react app using vite
 - configure tailwind
 - Header
+- Routing of app
 - Login form
+- Sign in/up page
+- Form validation
+- useRef Hook
+- Firebase setup
+- Deploying app to production
+- Sign up user account creation
+- Implement Sign In user api
+- Created Redux store with userSlice
+- Implemented Sign out 
+- Update Profile
 
 
 
